@@ -53,6 +53,7 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ```
 ## Output:
+
 ## VALUE OF X
 ![image](https://github.com/user-attachments/assets/1144eae5-879e-49c4-8664-14e0cb435ed2)
 
