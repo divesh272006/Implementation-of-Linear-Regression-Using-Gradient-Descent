@@ -62,9 +62,7 @@ print(f"Predicted value: {pre}")
 ![image](https://github.com/user-attachments/assets/1144eae5-879e-49c4-8664-14e0cb435ed2)
 
 ## VALUE OF Y
-
 ![image](https://github.com/user-attachments/assets/7ff60e1b-80c6-4ca7-b69a-55eac0c0ee3c)
-
 
 ## PREDICTED VALUE:
 
