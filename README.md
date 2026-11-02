@@ -9,11 +9,8 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Import the required library and read the dataframe.
-
 2.Write a function computeCost to generate the cost function.
-
 3.Perform iterations og gradient steps with learning rate.
-
 4.Plot the Cost function using Gradient Descent and generate the required graph.
 
 ## Program:
@@ -55,17 +52,14 @@ pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
 ```
-
 ## Output:
 ## VALUE OF X
-
 ![image](https://github.com/user-attachments/assets/1144eae5-879e-49c4-8664-14e0cb435ed2)
 
 ## VALUE OF Y
 ![image](https://github.com/user-attachments/assets/7ff60e1b-80c6-4ca7-b69a-55eac0c0ee3c)
 
 ## PREDICTED VALUE:
-
 <img width="348" height="15" alt="image" src="https://github.com/user-attachments/assets/274980e2-6093-4911-9e52-d9471df56b82" />
 
 ## Result:
